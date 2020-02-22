@@ -1,8 +1,6 @@
 # US-Popular-Baby-Names-Trend-Analysis-using-Python
 ## Background
- Whether you want to make sure your baby is on trend, or you're trying to avoid anything too popular, government baby name lists provide parents with a ton of naming information and inspiration.  
-
-In this study, we'll work with open data on [Popular Baby Names](https://www.ssa.gov/oact/babynames/limits.html) made by the United States Social Security Administration (SSA). 
+ Whether you want to make sure your baby is on trend, or you're trying to avoid anything too popular, government baby name lists provide parents with a ton of naming information and inspiration. In this study, we'll work with open data on [Popular Baby Names](https://www.ssa.gov/oact/babynames/limits.html) made by the United States Social Security Administration (SSA). 
 
 ## Data Analytics Outline
 ### **1. Research Questions**
