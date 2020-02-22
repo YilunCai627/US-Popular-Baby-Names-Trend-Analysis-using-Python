@@ -22,16 +22,14 @@ There are many things we can explore with the dataset:
 #### Total Number of US births by sex and year
 The graph below shows the number of applicants for a Social Security card by year of birth and sex. We can observe the birth trends rise and fall based on economic trends- they births tend to fall in times of recession, and male births started to outpace female births after World War two.
 
-![]()
+![](https://github.com/YilunCai627/US-Popular-Baby-Names-Trend-Analysis-using-Python/raw/master/Data%20Visualization/Total%20births%20by%20sex%20and%20year.png)
 
 #### Analyzing Naming Trends
 Because the data include information spanning from 1880 to the present, we can examine trends in time of baby names for any changes and visualize the trend. 
 
-
-![]()
+![](https://github.com/YilunCai627/US-Popular-Baby-Names-Trend-Analysis-using-Python/raw/master/Data%20Visualization/A%20few%20boy%20and%20girl%20names%20over%20time.png)
 
 Looking at this, you might conclude that these names have grown out of favor with the American population. But the story is actually more complicated than that, as will be explored in the next section.
-
 
 ### **4. Research Answers**
 TV shows, the Royal Family, and a tendency to choose shorter names are a few of the trends that are influencing the names that are climbing the charts.  
